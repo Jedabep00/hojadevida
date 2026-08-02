@@ -291,7 +291,7 @@ footer {
     padding: 1.5rem;
     border-radius: 12px;
     box-shadow: var(--shadow);
-    border-left: 4px solid var(--accent);
+    border-left: 4px solid var(--secondary);
     transition: transform 0.3s;
 }
 
